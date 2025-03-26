@@ -1,10 +1,6 @@
 # AI感謝日記プロジェクト
 
 <p align="center">
-  <img src="assets/logo.png" alt="AI感謝日記ロゴ" width="200"/>
-</p>
-
-<p align="center">
   <b>AIを活用した自己洞察と成長のための日記システム</b><br>
   日々の振り返りと感謝の記録を通じて、あなたの内省力と自己理解を深めます
 </p>
