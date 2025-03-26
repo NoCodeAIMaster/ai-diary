@@ -111,8 +111,8 @@ AI感謝日記プロジェクトは、AIの対話機能とNotion連携を活用�
 
 ## クレジット
 
-- 開発: [Your Name/Organization]
-- ロゴデザイン: [Designer Name]
+- 開発: [NocodeAIMaster]
+- ロゴデザイン: [NocodeAIMater]
 - 特別な感謝: このプロジェクトにフィードバックをくださったすべての方々
 
 ---
