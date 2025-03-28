@@ -15,7 +15,8 @@
 
 最も簡単な方法は、用意されたテンプレートを複製することです。
 
-1. <a href="https://brook-cayenne-c73.notion.site/1c4914f6c3ac809dbcc1ce4dbf9d6e1b?v=1c4914f6c3ac81d59269000c38c0c2a8&pvs=4" target="_blank">テンプレートリンク</a>にアクセス
+1. [テンプレートリンク](https://brook-cayenne-c73.notion.site/1c4914f6c3ac809dbcc1ce4dbf9d6e1b?v=1c4914f6c3ac81d59269000c38c0c2a8&pvs=4)にアクセス  
+   **注意**: リンクをコピーして新しいタブで開くことをお勧めします
 2. 右上の「複製」ボタンをクリック
 3. お好みのワークスペースを選択して「複製」をクリック
 
